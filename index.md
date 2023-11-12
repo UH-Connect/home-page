@@ -29,7 +29,7 @@ Our App runs on multiple layers of technology:
 
 <h2 id="organization">Organization</h2>
 
-<h4>All of our work is available for others to view.</h4>
+All of our work is available for others to view.
 <h4><a href="https://github.com/uh-connect">Click Here to Visit Our Github Organization!</a></h4>
 
 <h2 id="team-members">Team Members</h2>
