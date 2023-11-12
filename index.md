@@ -1,6 +1,6 @@
 <h1>Welcome to UH-Connect!</h1>
 
-<h3>Find your dream job today!</h2>
+<h3>Find your dream job today!</h3>
 
 <h1><a href="http://google.com">Click Here to Visit Our App!</a></h1>
 
@@ -15,16 +15,16 @@
 
 <h2 id="our-mission">Our Mission</h2>
 
-<h4>We aim to introduce employers to talented  UH students, as well as give students the positions they deserve in their career.</h4>
+We aim to introduce employers to talented  UH students, as well as give students the positions they deserve in their career.
 
-<h4>Our app is that bridge that connects the two parties. Modern career apps such as Indeed allow very little interaction. We wanted to make it easier for the two parties to message each other quickly and show interest much more easily.</h4>
+Our app is that bridge that connects the two parties. Modern career apps such as Indeed allow very little interaction. We wanted to make it easier for the two parties to message each other quickly and show interest much more easily.
 
 <h2 id="behind-the-scenes">Behind the Scenes</h2>
 
 Our App runs on multiple layers of technology:
 <ul>
   <li><a href="https://www.meteor.com/">Meteor</a> is how our project base code is created</li>
-  <li><a href=https://www.digitalocean.com//">Digital Ocean</a> for hosting our website app</li>
+  <li><a href="https://www.digitalocean.com//">Digital Ocean</a> for hosting our website app</li>
 </ul>
 
 <h2 id="organization">Organization</h2>
