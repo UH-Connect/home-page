@@ -45,3 +45,10 @@ All of our work is available for others to view.
 <h2 id="contract">Our Contract</h2>
 
 <h4><a href="https://docs.google.com/document/d/1pMejVwFS32Qq-ZSnMN_upGQRkf20CDSqQLBBMPb7wD8/edit">Click here to view our project contract!</a></h4>
+
+<h2 id="projectboard">Project Board</h2>
+
+<h4><a href="https://github.com/orgs/uh-connect/projects/1/views/1">Click here to view our project board for Milestone 1!</h4>
+
+<h4><a href="https://github.com/orgs/uh-connect/projects/2/views/1">Click here to view our project board for Milestone 2!</h4>
+
