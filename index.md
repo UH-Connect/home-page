@@ -2,7 +2,7 @@
 
 <h3>Find your dream job today!</h3>
 
-<h1><a href="http://164.92.108.208">Click Here to Visit Our App!</a></h1>
+<h1><a href="http://164.92.108.208">Click Here to Visit Our App! (Link to App from deployed from Digital Ocean)</a></h1>
 
 <h3>More About Us</h3>
 <ul>
@@ -69,4 +69,3 @@ All of our work is available for others to view.
 <h4><a href="https://github.com/orgs/uh-connect/projects/2/views/1">Click here to view our project board for Milestone 2!</a></h4>
 
 <h4><a href="https://github.com/orgs/uh-connect/projects/2/views/1">Click here to view our project board for Milestone 3!</a></h4>
-
