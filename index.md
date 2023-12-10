@@ -7,7 +7,7 @@
 <h3>More About Us</h3>
 <ul>
   <li><a href="#our-mission">Our Mission</a></li>
-  <li><a href="#user-guide">Our Mission</a></li>
+  <li><a href="#user-guide">User Guide</a></li>
   <li><a href="#behind-the-scenes">Behind the Scenes</a></li>
   <li><a href="#organization">Organization</a></li>
   <li><a href="#team-members">Team Members</a></li>
