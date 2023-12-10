@@ -41,7 +41,7 @@ This will lead you to the following page. Here instead of registering your accou
 
 <img src="doc/signin.png">
 
-Your first time signing in, you will be asked to select a role.
+Your first time signing in, you will be asked to select a role. (Note: placeholder image)
 
 <img src="doc/landing-norole.png">
 
@@ -50,6 +50,30 @@ By clicking on the "Select Role" button, you'll be redirected to the role select
 Don't worry, this can be changed later.
 
 <img src="doc/roleselect.png">
+
+If you choose to continue as a student, you will be greeted with the following landing page. (Note: placeholder image)
+
+<img src="doc/landing-student.png">
+
+From here, you will gain access to job listings and profile editing. These features can be accessed on the navbar as well as near the bottom of the screen.
+
+The profile editing page looks like this. This will create, or edit, a profile for employers to view. The employers can save these contacts.
+
+<img src="doc/profile.png">
+
+If you choose to continue as a company, you will be greeted with the following landing page. (Note: placeholder image)
+
+<img src="doc/landing-company.png">
+
+From here, you will gain access to job listings, just like the students. You will also gain access to add jobs and recruiting.
+
+Adding a job allows students to view it and save it.
+
+<img src="doc/add-job.png">
+
+There is also a different landing page for admins. Admins have access to both the job listings as well as student profile viewing.
+
+<img src="doc/landing-admin.png">
 
 <h3>More Information</h3>
 
