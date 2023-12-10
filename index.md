@@ -1,4 +1,4 @@
-<h1>Welcome to UH-Connect!</h1>
+![image](https://github.com/uh-connect/home-page/assets/125630374/93abbe80-db55-4251-a305-a90d29b5533d)<h1>Welcome to UH-Connect!</h1>
 
 <h3>Find your dream job today!</h3>
 
@@ -21,7 +21,63 @@ Our app is that bridge that connects the two parties. Modern career apps such as
 
 <h2>User Guide</h2>
 
-Once you load up the page, you are greeted with the Landing Page. Currently, we have accounts and roles all setup, as well as the Jobs collection. On signup, you will be redirected to the role assignment page, where you can change your role to either to 'student' or 'company'. Student roles have access to all the Jobs in the Job database. For company roles, you only have access to your Jobs that you posted on Jobs Collection. Note, that based on your role you will see the webpage differently. To post a Job onto our website, you can either follow the tutorial (still being implemented) or press on the Add Job link on the NavBar. If you ever, want to change your role the role assignment page will still be open, even if you are already assigned one, however, you can only be assigned either student or company. Note that Jobs collection is still a work in progress, we are using this collection to test some of our pages.
+<h3>Getting Started<h3>
+
+Upon reaching our pages, you'll be greeted with the following landing page.
+
+<img src="doc/landing.png">
+
+You'll need an account to use our site's content.
+
+By clicking the "sign up" button, you'll be transferred to the following sign-up page. Here you can create a username and password.
+
+<img src="doc/signup.png">
+
+By signing up, you can access the account in the future. If you are not signed in on the landing page, you can click the "sign in" dropdown on the top right corner of the navbar.
+
+<img src="doc/signin-nav.png">
+
+This will lead you to the following page. Here instead of registering your account, you will be asked to put your password in.
+
+<img src="doc/signin.png">
+
+Your first time signing in, you will be asked to select a role.
+
+<img src="doc/landing-norole.png">
+
+By clicking on the "Select Role" button, you'll be redirected to the role select page. On this page, you'll be able to choose whether you wish to continue as a student or a company.
+
+Don't worry, this can be changed later.
+
+<img src="doc/roleselect.png">
+
+<h3>More Information</h3>
+
+At the bottom of the page, you can find the footer with several links.
+
+<img src="doc/footer.png">
+
+The first of these links is the FAQ. It gives a list of frequently asked questions.
+
+<img src="doc/footer-faq.png">
+
+The second of these links is our project homepage. It simply brings the user back to this page.
+
+The third leads to our GitHub page.
+
+The one in the middle brings the user back to the landing page.
+
+The fourth button brings the user to the About page. It gives an overview of our app.
+
+<img src="doc/footer-about.png">
+
+The fifth page is the Get Started page. This page is still a work in progress.
+
+The sixth page is the terms of service page. It is a brief overview of expected behavior while using our app.
+
+<img src="doc/footer-terms.png">
+
+These 
 
 <h2>Developer Guide</h2>
 
