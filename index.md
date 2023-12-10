@@ -1,3 +1,11 @@
+<style>
+  img {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+  }
+</style>
+
 <h1>Welcome to UH-Connect!</h1>
 
 <h3>Find your dream job today!</h3>
