@@ -1,4 +1,4 @@
-![image](https://github.com/uh-connect/home-page/assets/125630374/93abbe80-db55-4251-a305-a90d29b5533d)<h1>Welcome to UH-Connect!</h1>
+<h1>Welcome to UH-Connect!</h1>
 
 <h3>Find your dream job today!</h3>
 
@@ -51,6 +51,8 @@ Don't worry, this can be changed later.
 
 <img src="doc/roleselect.png">
 
+<h3>Student View<h3>
+
 If you choose to continue as a student, you will be greeted with the following landing page. (Note: placeholder image)
 
 <img src="doc/landing-student.png">
@@ -61,6 +63,8 @@ The profile editing page looks like this. This will create, or edit, a profile f
 
 <img src="doc/profile.png">
 
+<h3>Company View<h3>
+
 If you choose to continue as a company, you will be greeted with the following landing page. (Note: placeholder image)
 
 <img src="doc/landing-company.png">
@@ -70,6 +74,8 @@ From here, you will gain access to job listings, just like the students. You wil
 Adding a job allows students to view it and save it.
 
 <img src="doc/add-job.png">
+
+<h3>Admin View<h3>
 
 There is also a different landing page for admins. Admins have access to both the job listings as well as student profile viewing.
 
