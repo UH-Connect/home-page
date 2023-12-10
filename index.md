@@ -50,7 +50,7 @@ Don't worry, this can be changed later.
 
 <img src="doc/roleselect.png">
 
-<h3>Student View<h3>
+<h3>Student View</h3>
 
 If you choose to continue as a student, you will be greeted with the following landing page. (Note: placeholder image)
 
@@ -62,7 +62,7 @@ The profile editing page looks like this. This will create, or edit, a profile f
 
 <img src="doc/profile.png">
 
-<h3>Company View<h3>
+<h3>Company View</h3>
 
 If you choose to continue as a company, you will be greeted with the following landing page. (Note: placeholder image)
 
