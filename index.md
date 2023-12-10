@@ -7,6 +7,7 @@
 <h3>More About Us</h3>
 <ul>
   <li><a href="#our-mission">Our Mission</a></li>
+  <li><a href="#user-guide">Our Mission</a></li>
   <li><a href="#behind-the-scenes">Behind the Scenes</a></li>
   <li><a href="#organization">Organization</a></li>
   <li><a href="#team-members">Team Members</a></li>
@@ -15,13 +16,11 @@
 
 <h2 id="our-mission">Our Mission</h2>
 
-We aim to introduce employers to talented  UH students, as well as give students the positions they deserve in their career.
+We aim to introduce employers to talented  UH students, as well as give students the positions they deserve in their careers.
 
 Our app is that bridge that connects the two parties. Modern career apps such as Indeed allow very little interaction. We wanted to make it easier for the two parties to message each other quickly and show interest much more easily.
 
-<h2>User Guide</h2>
-
-<h3>Getting Started<h3>
+<h2 id="user-guide">User Guide</h2>
 
 Upon reaching our pages, you'll be greeted with the following landing page.
 
