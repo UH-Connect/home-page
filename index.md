@@ -2,7 +2,7 @@
 
 <h3>Find your dream job today!</h3>
 
-<h1><a href="http://164.92.108.208">Click Here to Visit Our App! (Link to App from deployed from Digital Ocean)</a></h1>
+<h1><a href="http://164.92.108.208">Click Here to Visit Our App!</a></h1>
 
 <h3>More About Us</h3>
 <ul>
@@ -112,13 +112,13 @@ These
 
 In order for UH-Connect to run, I will list all the software needed.
 
+* Git (or Anything that will clone a Git Repository)
 * MeteorJS
-* Terminal
+* Terminal (or PowerShell/Command Prompt)
 * NodeJS (Version: Node v12)
 * Node Version Manager (Use NVM, you might need to change Node versions occasionally)
 
-Once all of these are installed, Go into your terminal (or Powershell, etc...), and go into the app folder.
-Once in the app folder, then run the command ```meteor npm install```. This will install all the dependencies needed for the app to run. Then you run the command ```meteor npm run start```, this will take start to run the app, and give you a link to the app.
+Once all of these are installed, Go into your terminal (or Powershell, etc...), and clone our repository. If you are using using Git commands do ```git clone https://github.com/uh-connect/uh-connect.git```. Once you have clone the repository, go into its directory, and move into the app folder. Once in the app folder, then run the command ```meteor npm install```. This will install all the dependencies needed for the app to run. Then you run the command ```meteor npm run start```, this will start to run the app, and give you a link to the app. Now you should have a local version of our App running on your system.
 
 <h2 id="behind-the-scenes">Behind the Scenes</h2>
 
@@ -153,4 +153,4 @@ All of our work is available for others to view.
 
 <h4><a href="https://github.com/orgs/uh-connect/projects/2/views/1">Click here to view our project board for Milestone 2!</a></h4>
 
-<h4><a href="https://github.com/orgs/uh-connect/projects/2/views/1">Click here to view our project board for Milestone 3!</a></h4>
+<h4><a href="https://github.com/orgs/uh-connect/projects/3/views/1">Click here to view our project board for Milestone 3!</a></h4>
