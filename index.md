@@ -1,11 +1,3 @@
-<style>
-  img {
-    border-style: solid;
-    border-width: 5px;
-    border-color: green;
-  }
-</style>
-
 <h1>Welcome to UH-Connect!</h1>
 
 <h3>Find your dream job today!</h3>
@@ -142,13 +134,27 @@ The sixth page is the terms of service page. It is a brief overview of expected 
 
 In order for UH-Connect to run, I will list all the software needed.
 
-* Git (or Anything that will clone a Git Repository)
-* MeteorJS
-* Terminal (or PowerShell/Command Prompt)
-* NodeJS (Version: Node v12)
-* Node Version Manager (Use NVM, you might need to change Node versions occasionally)
+<ul>
+  <li>Git (or Anything that will clone a Git Repository)</li>
+  <li>MeteorJS</li>
+  <li>Terminal (or PowerShell/Command Prompt)</li>
+  <li>NodeJS (Version: Node v12)</li>
+  <li>Node Version Manager (Use NVM, you might need to change Node versions occasionally)</li>
+</ul>
 
-Once all of these are installed, Go into your terminal (or Powershell, etc...), and clone our repository. If you are using using Git commands do ```git clone https://github.com/uh-connect/uh-connect.git```. Once you have clone the repository, go into its directory, and move into the app folder. Once in the app folder, then run the command ```meteor npm install```. This will install all the dependencies needed for the app to run. Then you run the command ```meteor npm run start```, this will start to run the app, and give you a link to the app. Now you should have a local version of our App running on your system.
+Once all of these are installed, Go into your terminal (or Powershell, etc...), and clone our repository. If you are using using Git commands do
+
+<i>git clone https://github.com/uh-connect/uh-connect.git</i>.
+
+Once you have clone the repository, go into its directory, and move into the app folder. Once in the app folder, then run the command
+
+<i>meteor npm install</i>
+
+This will install all the dependencies needed for the app to run. Then you run the command
+
+<i>meteor npm run start</i>
+
+This will start to run the app, and start a local server on your machine. It will give you a link to the App locally. Now you should have a local version of our App running on your system. If you want to modify our App, go into the app folder, the majority of the app is in react format, so you can modify our App through the .jsx files.
 
 <h2 id="behind-the-scenes">Behind the Scenes</h2>
 
