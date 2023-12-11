@@ -162,7 +162,7 @@ Our App runs on multiple layers of technology:
 
 "Your interface is nice and straightforward. The nice color and template choice for the website makes it stand out without being overbearing like some other sites. could use a more in-depth home page with some cool animations but it is what it is" - Anonymous
 
-"Missing a lot of functions, but works decently well." - Anonymous
+"The navbar color seems to blend into the background. This would look better if it isn't the same color." - Anonymous
 
 "The role change should take you back to the landing page." - Anonymous
 
