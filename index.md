@@ -66,9 +66,21 @@ If you choose to continue as a student, you will be greeted with the following l
 
 From here, you will gain access to job listings and profile editing. These features can be accessed on the navbar as well as near the bottom of the screen.
 
-The profile editing page looks like this. This will create, or edit, a profile for employers to view. The employers can save these contacts.
+The profile editing page looks like this. This will create, or edit, a profile for employers to view.
 
 <img src="doc/profile.png">
+
+The following would be how your profile would look to you as a student.
+
+<img src="doc/student-profile.png">
+
+For job searching, students can view the Job listings page. As a student, you have the ability to add jobs to your saved jobs list.
+
+<img src="doc/student-job.png">
+
+Once saved, students can view their list of saved jobs in the top right corner of their screen, above the signout button. It will bring you to a screen with all your saved jobs.
+
+<img src="doc/student-save.png">
 
 <h3>Company View</h3>
 
@@ -81,6 +93,18 @@ From here, you will gain access to job listings, just like the students. You wil
 Adding a job allows students to view it and save it.
 
 <img src="doc/add-job.png">
+
+Jobs added by the company can be viewed on the navbar. This will only display jobs created by the user.
+
+<img src="doc/company-job.png">
+
+To view currently existing student profiles, companies can click on the recruit tab to see available candidates.
+
+<img src="doc/company-candidate.png">
+
+Like the students, companies can add students to a saved list.
+
+<img src="doc/company-save.png">
 
 <h3>Admin View<h3>
 
