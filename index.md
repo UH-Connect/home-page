@@ -158,6 +158,10 @@ Our App runs on multiple layers of technology:
   <li><a href="https://www.digitalocean.com//">Digital Ocean</a> for hosting our website app</li>
 </ul>
 
+<h2>Early Feedback</h2>
+
+"Your interface is nice and straightforward. The nice color and template choice for the website makes it stand out without being overbearing like some other sites. could use a more in-depth home page with some cool animations but it is what it is" - Anonymous
+
 <h2 id="organization">Organization</h2>
 
 All of our work is available for others to view.
