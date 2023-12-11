@@ -162,6 +162,14 @@ Our App runs on multiple layers of technology:
 
 "Your interface is nice and straightforward. The nice color and template choice for the website makes it stand out without being overbearing like some other sites. could use a more in-depth home page with some cool animations but it is what it is" - Anonymous
 
+"Missing a lot of functions, but works decently well." - Anonymous
+
+"The role change should take you back to the landing page." - Anonymous
+
+"It is very confusing if we have our role have been selected." - Anonymous
+
+"Checkmark doesn't disappear unless confirmed. It should be fine, though." - Anonymous
+
 <h2 id="organization">Organization</h2>
 
 All of our work is available for others to view.
