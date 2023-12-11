@@ -136,9 +136,7 @@ The fifth page is the Get Started page. This page is still a work in progress.
 
 The sixth page is the terms of service page. It is a brief overview of expected behavior while using our app.
 
-<img src="doc/footer-terms.png">
-
-These 
+<img src="doc/footer-tos.png">
 
 <h2>Developer Guide</h2>
 
